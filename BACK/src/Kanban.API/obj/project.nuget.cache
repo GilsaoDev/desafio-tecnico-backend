@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "++4k3qEMhLseHMjwAYsR5MYIQkhtNnCCJzmQiQs4foMHBHTFv3C3rT8/ZrVHI39Vldgf0Bg8nxCfjWVHOiUA8w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gilsonsilva\\Documents\\Projetos\\Git\\Desafio_Tecnico\\desafio-tecnico-backend\\BACK\\src\\Kanban.API\\Kanban.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gilsonsilva\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\gilsonsilva\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\gilsonsilva\\.nuget\\packages\\swashbuckle.aspnetcore\\6.1.5\\swashbuckle.aspnetcore.6.1.5.nupkg.sha512",
+    "C:\\Users\\gilsonsilva\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.1.5\\swashbuckle.aspnetcore.swagger.6.1.5.nupkg.sha512",
+    "C:\\Users\\gilsonsilva\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.1.5\\swashbuckle.aspnetcore.swaggergen.6.1.5.nupkg.sha512",
+    "C:\\Users\\gilsonsilva\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.1.5\\swashbuckle.aspnetcore.swaggerui.6.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

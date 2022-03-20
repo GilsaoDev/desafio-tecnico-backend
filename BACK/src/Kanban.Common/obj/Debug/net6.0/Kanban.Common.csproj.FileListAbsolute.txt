@@ -1,0 +1,16 @@
+C:\Users\gilsonsilva\Documents\Projetos\Git\Desafio_Tecnico\desafio-tecnico-backend\BACK\src\Kanban.Common\bin\Debug\net6.0\Kanban.Common.deps.json
+C:\Users\gilsonsilva\Documents\Projetos\Git\Desafio_Tecnico\desafio-tecnico-backend\BACK\src\Kanban.Common\bin\Debug\net6.0\Kanban.Common.dll
+C:\Users\gilsonsilva\Documents\Projetos\Git\Desafio_Tecnico\desafio-tecnico-backend\BACK\src\Kanban.Common\bin\Debug\net6.0\ref\Kanban.Common.dll
+C:\Users\gilsonsilva\Documents\Projetos\Git\Desafio_Tecnico\desafio-tecnico-backend\BACK\src\Kanban.Common\bin\Debug\net6.0\Kanban.Common.pdb
+C:\Users\gilsonsilva\Documents\Projetos\Git\Desafio_Tecnico\desafio-tecnico-backend\BACK\src\Kanban.Common\obj\Debug\net6.0\Kanban.Common.GlobalUsings.g.cs
+C:\Users\gilsonsilva\Documents\Projetos\Git\Desafio_Tecnico\desafio-tecnico-backend\BACK\src\Kanban.Common\obj\Debug\net6.0\Kanban.Common.csproj.AssemblyReference.cache
+C:\Users\gilsonsilva\Documents\Projetos\Git\Desafio_Tecnico\desafio-tecnico-backend\BACK\src\Kanban.Common\obj\Debug\net6.0\Kanban.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gilsonsilva\Documents\Projetos\Git\Desafio_Tecnico\desafio-tecnico-backend\BACK\src\Kanban.Common\obj\Debug\net6.0\Kanban.Common.AssemblyInfoInputs.cache
+C:\Users\gilsonsilva\Documents\Projetos\Git\Desafio_Tecnico\desafio-tecnico-backend\BACK\src\Kanban.Common\obj\Debug\net6.0\Kanban.Common.AssemblyInfo.cs
+C:\Users\gilsonsilva\Documents\Projetos\Git\Desafio_Tecnico\desafio-tecnico-backend\BACK\src\Kanban.Common\obj\Debug\net6.0\Kanban.Common.csproj.CoreCompileInputs.cache
+C:\Users\gilsonsilva\Documents\Projetos\Git\Desafio_Tecnico\desafio-tecnico-backend\BACK\src\Kanban.Common\obj\Debug\net6.0\Kanban.Common.dll
+C:\Users\gilsonsilva\Documents\Projetos\Git\Desafio_Tecnico\desafio-tecnico-backend\BACK\src\Kanban.Common\obj\Debug\net6.0\ref\Kanban.Common.dll
+C:\Users\gilsonsilva\Documents\Projetos\Git\Desafio_Tecnico\desafio-tecnico-backend\BACK\src\Kanban.Common\obj\Debug\net6.0\Kanban.Common.pdb
+C:\Users\gilsonsilva\Documents\Projetos\Git\Desafio_Tecnico\desafio-tecnico-backend\BACK\src\Kanban.Common\bin\Debug\net6.0\Kanban.Domain.dll
+C:\Users\gilsonsilva\Documents\Projetos\Git\Desafio_Tecnico\desafio-tecnico-backend\BACK\src\Kanban.Common\bin\Debug\net6.0\Kanban.Domain.pdb
+C:\Users\gilsonsilva\Documents\Projetos\Git\Desafio_Tecnico\desafio-tecnico-backend\BACK\src\Kanban.Common\obj\Debug\net6.0\Kanban.Common.csproj.CopyComplete

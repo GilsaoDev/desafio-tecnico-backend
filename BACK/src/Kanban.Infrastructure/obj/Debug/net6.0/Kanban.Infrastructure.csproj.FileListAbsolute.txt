@@ -1,0 +1,16 @@
+C:\Users\gilsonsilva\Documents\Projetos\Git\Desafio_Tecnico\desafio-tecnico-backend\BACK\src\Kanban.Infrastructure\bin\Debug\net6.0\Kanban.Infrastructure.deps.json
+C:\Users\gilsonsilva\Documents\Projetos\Git\Desafio_Tecnico\desafio-tecnico-backend\BACK\src\Kanban.Infrastructure\bin\Debug\net6.0\Kanban.Infrastructure.dll
+C:\Users\gilsonsilva\Documents\Projetos\Git\Desafio_Tecnico\desafio-tecnico-backend\BACK\src\Kanban.Infrastructure\bin\Debug\net6.0\ref\Kanban.Infrastructure.dll
+C:\Users\gilsonsilva\Documents\Projetos\Git\Desafio_Tecnico\desafio-tecnico-backend\BACK\src\Kanban.Infrastructure\bin\Debug\net6.0\Kanban.Infrastructure.pdb
+C:\Users\gilsonsilva\Documents\Projetos\Git\Desafio_Tecnico\desafio-tecnico-backend\BACK\src\Kanban.Infrastructure\obj\Debug\net6.0\Kanban.Infrastructure.GlobalUsings.g.cs
+C:\Users\gilsonsilva\Documents\Projetos\Git\Desafio_Tecnico\desafio-tecnico-backend\BACK\src\Kanban.Infrastructure\obj\Debug\net6.0\Kanban.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\gilsonsilva\Documents\Projetos\Git\Desafio_Tecnico\desafio-tecnico-backend\BACK\src\Kanban.Infrastructure\obj\Debug\net6.0\Kanban.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gilsonsilva\Documents\Projetos\Git\Desafio_Tecnico\desafio-tecnico-backend\BACK\src\Kanban.Infrastructure\obj\Debug\net6.0\Kanban.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\gilsonsilva\Documents\Projetos\Git\Desafio_Tecnico\desafio-tecnico-backend\BACK\src\Kanban.Infrastructure\obj\Debug\net6.0\Kanban.Infrastructure.AssemblyInfo.cs
+C:\Users\gilsonsilva\Documents\Projetos\Git\Desafio_Tecnico\desafio-tecnico-backend\BACK\src\Kanban.Infrastructure\obj\Debug\net6.0\Kanban.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\gilsonsilva\Documents\Projetos\Git\Desafio_Tecnico\desafio-tecnico-backend\BACK\src\Kanban.Infrastructure\obj\Debug\net6.0\Kanban.Infrastructure.dll
+C:\Users\gilsonsilva\Documents\Projetos\Git\Desafio_Tecnico\desafio-tecnico-backend\BACK\src\Kanban.Infrastructure\obj\Debug\net6.0\ref\Kanban.Infrastructure.dll
+C:\Users\gilsonsilva\Documents\Projetos\Git\Desafio_Tecnico\desafio-tecnico-backend\BACK\src\Kanban.Infrastructure\obj\Debug\net6.0\Kanban.Infrastructure.pdb
+C:\Users\gilsonsilva\Documents\Projetos\Git\Desafio_Tecnico\desafio-tecnico-backend\BACK\src\Kanban.Infrastructure\bin\Debug\net6.0\Kanban.Domain.dll
+C:\Users\gilsonsilva\Documents\Projetos\Git\Desafio_Tecnico\desafio-tecnico-backend\BACK\src\Kanban.Infrastructure\bin\Debug\net6.0\Kanban.Domain.pdb
+C:\Users\gilsonsilva\Documents\Projetos\Git\Desafio_Tecnico\desafio-tecnico-backend\BACK\src\Kanban.Infrastructure\obj\Debug\net6.0\Kanban.Infrastructure.csproj.CopyComplete

@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kanban.Application", "Kanban.Application\Kanban.Application.csproj", "{C3FA6D25-FA42-4D72-B98B-2CB6DB86BB53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kanban.Domain", "Kanban.Domain\Kanban.Domain.csproj", "{C5280BF1-EC2C-4373-BCAE-22A7E743E729}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kanban.Infrastructure", "Kanban.Infrastructure\Kanban.Infrastructure.csproj", "{55C66036-2E74-485F-982A-8794964DC6E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kanban.Common", "Kanban.Common\Kanban.Common.csproj", "{518DD6CF-2BA8-484D-952E-0AB1A5965FD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kanban.API", "Kanban.API\Kanban.API.csproj", "{0591ECD8-C115-4C7C-B6C5-5B450D3CCF8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3FA6D25-FA42-4D72-B98B-2CB6DB86BB53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3FA6D25-FA42-4D72-B98B-2CB6DB86BB53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3FA6D25-FA42-4D72-B98B-2CB6DB86BB53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3FA6D25-FA42-4D72-B98B-2CB6DB86BB53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5280BF1-EC2C-4373-BCAE-22A7E743E729}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5280BF1-EC2C-4373-BCAE-22A7E743E729}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5280BF1-EC2C-4373-BCAE-22A7E743E729}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5280BF1-EC2C-4373-BCAE-22A7E743E729}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55C66036-2E74-485F-982A-8794964DC6E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55C66036-2E74-485F-982A-8794964DC6E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55C66036-2E74-485F-982A-8794964DC6E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55C66036-2E74-485F-982A-8794964DC6E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{518DD6CF-2BA8-484D-952E-0AB1A5965FD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{518DD6CF-2BA8-484D-952E-0AB1A5965FD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{518DD6CF-2BA8-484D-952E-0AB1A5965FD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{518DD6CF-2BA8-484D-952E-0AB1A5965FD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0591ECD8-C115-4C7C-B6C5-5B450D3CCF8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0591ECD8-C115-4C7C-B6C5-5B450D3CCF8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0591ECD8-C115-4C7C-B6C5-5B450D3CCF8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0591ECD8-C115-4C7C-B6C5-5B450D3CCF8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\gilsonsilva\\Documents\\Projetos\\Git\\Desafio_Tecnico\\desafio-tecnico-backend\\BACK\\src\\Kanban.Application\\Kanban.Application.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\gilsonsilva\\Documents\\Projetos\\Git\\Desafio_Tecnico\\desafio-tecnico-backend\\BACK\\src\\Kanban.Application\\Kanban.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gilsonsilva\\Documents\\Projetos\\Git\\Desafio_Tecnico\\desafio-tecnico-backend\\BACK\\src\\Kanban.Application\\Kanban.Application.csproj",
+        "projectName": "Kanban.Application",
+        "projectPath": "C:\\Users\\gilsonsilva\\Documents\\Projetos\\Git\\Desafio_Tecnico\\desafio-tecnico-backend\\BACK\\src\\Kanban.Application\\Kanban.Application.csproj",
+        "packagesPath": "C:\\Users\\gilsonsilva\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gilsonsilva\\Documents\\Projetos\\Git\\Desafio_Tecnico\\desafio-tecnico-backend\\BACK\\src\\Kanban.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gilsonsilva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://fundepnuget/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\gilsonsilva\\Documents\\Projetos\\Git\\Desafio_Tecnico\\desafio-tecnico-backend\\BACK\\src\\Kanban.Domain\\Kanban.Domain.csproj": {
+                "projectPath": "C:\\Users\\gilsonsilva\\Documents\\Projetos\\Git\\Desafio_Tecnico\\desafio-tecnico-backend\\BACK\\src\\Kanban.Domain\\Kanban.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.1.21463.6\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gilsonsilva\\Documents\\Projetos\\Git\\Desafio_Tecnico\\desafio-tecnico-backend\\BACK\\src\\Kanban.Domain\\Kanban.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gilsonsilva\\Documents\\Projetos\\Git\\Desafio_Tecnico\\desafio-tecnico-backend\\BACK\\src\\Kanban.Domain\\Kanban.Domain.csproj",
+        "projectName": "Kanban.Domain",
+        "projectPath": "C:\\Users\\gilsonsilva\\Documents\\Projetos\\Git\\Desafio_Tecnico\\desafio-tecnico-backend\\BACK\\src\\Kanban.Domain\\Kanban.Domain.csproj",
+        "packagesPath": "C:\\Users\\gilsonsilva\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gilsonsilva\\Documents\\Projetos\\Git\\Desafio_Tecnico\\desafio-tecnico-backend\\BACK\\src\\Kanban.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gilsonsilva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://fundepnuget/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.1.21463.6\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
